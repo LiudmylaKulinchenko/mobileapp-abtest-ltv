@@ -1,0 +1,3 @@
+,test_group,total_visitors,conversions,trial_starters,total_revenue,average_revenue_per_user,average_revenue_per_paying_user
+0,control,7627,116,925,694.84,0.09110266159695818,5.99
+1,treatment,7658,149,798,792.35,0.10346696265343432,5.317785234899329
